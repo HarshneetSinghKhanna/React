@@ -8,6 +8,6 @@ function UserGreeting(props) {
   } else {
     return <h1>Please sign up.</h1>;
   }
-}ffff
+}
 
 export default UserGreeting;
